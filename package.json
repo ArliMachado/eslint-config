@@ -6,7 +6,12 @@
   "description": "ESLint configuration",
   "license": "MIT",
   "repository": {
-    "url": "ArliMachado/eslint-config"
+    "type": "git",
+    "url": "git+https://github.com/ArliMachado/eslint-config.git"
+  },
+  "homepage": "https://github.com/ArliMachado/eslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/ArliMachado/eslint-config/issues"
   },
   "main": "index.js",
   "dependencies": {

@@ -1,6 +1,6 @@
 # ESLint config
 
-## Standart eslint config for react. Includes:
+## Standart eslint config for React. Includes:
 - React plugin
 - React hook plugin
 - Prettier
