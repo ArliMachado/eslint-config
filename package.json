@@ -1,7 +1,7 @@
 {
   "name": "@almachado/eslint-config",
   "author": "Arli Machado",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ESLint configuration",
   "license": "MIT",
   "repository": {
@@ -40,6 +40,7 @@
   "keywords": [
     "eslint",
     "prettier",
-    "reactjs"
+    "reactjs",
+    "react-native"
   ]
 }
