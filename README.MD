@@ -2,7 +2,7 @@
 
 ## Standart eslint config for react. Includes:
 - React plugin
-- ReaCT HOOK PLUGIN
+- React hook plugin
 - Prettier
 
 ## Setup
