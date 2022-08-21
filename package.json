@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "@almachado/eslint-config",
   "author": "Arli Machado",
   "version": "1.0.0",
   "description": "ESLint configuration",
