@@ -2,7 +2,6 @@
   "name": "eslint-config",
   "author": "Arli Machado",
   "version": "1.0.0",
-  "private": "false",
   "description": "ESLint configuration",
   "license": "MIT",
   "repository": {
